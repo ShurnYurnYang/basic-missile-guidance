@@ -1,4 +1,4 @@
-# Proportional Navigation Simulator
+# basic missile guidance simulator
 VERY simple graphical simulation of proportional navigation using the Thales intercept theorem
 ## Notes:
 - Frankly not very well written, will most likely be re-written in the future
